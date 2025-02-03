@@ -1,0 +1,1 @@
+A program that creates an Ice Cream app that allows the user to make order, choosing different flavours and toppings, and implemnenting a point card system that enables users to spend their earned points on ice cream. Other features include obtaining user data through several inputs and a tier system for customers to earn more rewards
